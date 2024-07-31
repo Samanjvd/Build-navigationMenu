@@ -107,3 +107,12 @@ button.icon-s {
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
   }
+.search{
+    outline: none;
+}
+button > .icon-s {
+    cursor: pointer;
+}
+li > .nav-item {
+    cursor: pointer;
+}
